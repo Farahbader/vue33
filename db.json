@@ -1,0 +1,32 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "img": "/src/assets/img/mc4gbsag_makeup650_625x300_01_June_22.webp",
+        "name": "Red lipstick",
+        "price": 16,
+        "quantity": 10
+      },
+      {
+        "id": 2,
+        "img": "/src/assets/img/mc4gbsag_makeup650_625x300_01_June_22.webp",
+        "name": "Red lipstick",
+        "price": 16,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "img": "/src/assets/img/mc4gbsag_makeup650_625x300_01_June_22.webp",
+        "name": "Red lipstick",
+        "price": 16,
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "img": "/src/assets/img/mc4gbsag_makeup650_625x300_01_June_22.webp",
+        "name": "Red lipstick",
+        "price": 16,
+        "quantity": 1
+      }
+    ]
+  }
